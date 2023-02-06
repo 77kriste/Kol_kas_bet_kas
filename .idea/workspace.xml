@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba9b15ae-e7d6-4d8d-99d8-d5aee94d9f6a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HooIU2bINxcgimKURNuaw8VtHw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Kristina/WebstormProjects/untitled",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9b15ae-e7d6-4d8d-99d8-d5aee94d9f6a" name="Changes" comment="" />
+      <created>1668960718470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668960718470</updated>
+      <workItem from="1668960720441" duration="8000" />
+      <workItem from="1672674986016" duration="5122000" />
+      <workItem from="1672681727646" duration="7653000" />
+      <workItem from="1672761211290" duration="14317000" />
+      <workItem from="1672846883382" duration="13773000" />
+      <workItem from="1672933367284" duration="14276000" />
+      <workItem from="1673278534078" duration="12838000" />
+      <workItem from="1673366405349" duration="10122000" />
+      <workItem from="1673452124457" duration="9620000" />
+      <workItem from="1673537870900" duration="12691000" />
+      <workItem from="1673883118866" duration="12007000" />
+      <workItem from="1673969584553" duration="7964000" />
+      <workItem from="1674056774780" duration="9412000" />
+      <workItem from="1674141794215" duration="13217000" />
+      <workItem from="1674488873870" duration="12249000" />
+      <workItem from="1674575261457" duration="5573000" />
+      <workItem from="1674583676783" duration="1697000" />
+      <workItem from="1674661548587" duration="7543000" />
+      <workItem from="1674748209253" duration="9507000" />
+      <workItem from="1675093372701" duration="11689000" />
+      <workItem from="1675179740803" duration="10379000" />
+      <workItem from="1675265688640" duration="11635000" />
+      <workItem from="1675352406874" duration="14619000" />
+      <workItem from="1675698202091" duration="4151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/script.js</url>
+          <line>4058</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
